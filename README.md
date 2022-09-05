@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 🔭 I’m currently working on my personal improvement;
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODEJS. Waiting for more...;
